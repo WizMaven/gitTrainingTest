@@ -1,5 +1,5 @@
  function greet (mesaage) {
-    return 'Hi S{message}'
+    return 'Hi ${message}'
  }
 
  greet{}
