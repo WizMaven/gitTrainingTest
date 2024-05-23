@@ -3,3 +3,7 @@
  }
 
  greet{}
+
+ function response(message) {
+    return message
+ }
